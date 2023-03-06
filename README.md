@@ -1,5 +1,12 @@
 # 📚 가상 면접 사례로 배우는 대규모 시스템 설계 스터디
 
+<br>
+<br>
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/76584547/223130312-318dd7f5-f884-447a-80e2-922dc7512086.png" width="25%" height="25%"/>
+</p>
+
 ### 모티브
 + **자유**, **함께** 그리고 **완주**
 
