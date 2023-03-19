@@ -30,6 +30,8 @@
 
 <br>
 
+# 6 ~ 10장까지 내용정리 
+
 ## 6장
 <a href = "https://hot-tractor-dcc.notion.site/6-e8366e8c906346eca90b56df47bda248">6장 정리 링크</a>
 
