@@ -5,3 +5,8 @@
 - [9장 - 웹 크롤러 설계](https://awake-frost-048.notion.site/9-14d4c221909546a0a1ecb621bc98918a)
 - [10장 - 알림 시스템 설계](https://awake-frost-048.notion.site/10-036086bdb580484186bfe06fbd3e8f93)
 - [11장 - 뉴스 피드 시스템 설계](https://awake-frost-048.notion.site/11-902669ce8c3f4783b4b4985350da2562)
+
+## 설계 질문
+- 실시간 댓글 개발 아키텍처를 설계해보세요 
+<img src="https://tech.kakao.com/wp-content/uploads/2020/07/live-comment-mosaic.gif"/>
+
